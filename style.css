@@ -20,7 +20,7 @@
 div h1{
     font-size: 35px;
     font-weight: bold;
-    color: rgb(17, 31, 236);
+    color: #4e47ff;
 }
 
 div button{
@@ -28,7 +28,7 @@ div button{
     height: 40px;
     width: 90px;
     color: white;
-    background-color: rgb(17, 31, 236);
+    background-color: #4e47ff;
 }
 
 div p{
@@ -54,7 +54,7 @@ main{
 .main{
     justify-content: space-between;
     
-    width: 1500px;
+    width: 1400px;
     display: flex;
 }
 
@@ -83,3 +83,45 @@ main{
     width: 150px;
 }
 
+/**--third section--**/
+
+.Productive-user-section{
+    background-color: rgba(78,71,255,0.1);
+    padding: 50px 142px;
+    border-radius: 24px;
+    margin-bottom: 137px;
+    color: #252432;
+    height: 300px;
+    width: 1100px;
+    justify-content: center;
+}
+
+.Productive-user-section h1{
+    font-weight: bold;
+    font-size: 38px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.user-activity-container{
+    display: flex;
+    gap: 158px;
+    justify-content: space-between;
+    line-height: 0%;
+}
+
+.activity-title{
+    font-size: 80px;
+    font-weight: bold;
+    color: #4e47ff;
+}
+
+.activity-name{
+    font-size: 20px;
+    color: rgba(0,0,0,0.5);
+}
+
+.full-container-2{
+    display: flex;
+    justify-content: center;
+}
