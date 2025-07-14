@@ -273,3 +273,24 @@ main{
     display: flex;
     justify-content: center;
 }
+
+
+
+.about-us{
+    background-color: #FFFFFF;
+    height: 500px;
+    text-align: center;
+    align-items: center;
+    padding: 50px 50px;
+}
+
+.about-us-link a{
+    width: 400px;
+    text-decoration: none;
+}
+
+.logo{
+    font-size: 97px;
+}
+
+
